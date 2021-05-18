@@ -1,0 +1,3 @@
+[submodule "DemoFlutterApp"]
+	path = DemoFlutterApp
+	url = git@github.com:dushans-eyepax/DemoFlutterApp.git
